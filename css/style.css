@@ -222,21 +222,25 @@ section.prox{
     margin-block-end: 50px;
 }
 
-#box1 {
+.box {
     background-color: white;
-    margin-inline-start: 20%;
-}
-
-#box2 {
-    background-color: #F9EF03;
+    /* margin-inline-start: 20%;
+    margin-inline-end: 20%; */
     margin-inline: 15px;
 }
 
-#box3 {
-    background-color: white;
+/* #box1 {
+    margin-inline-start: 20%;
+} */
+
+/* #box2 {
+    margin-inline: 15px;
+} */
+
+/* #box3 {
     margin-inline-end: 20%;
     
-}
+} */
 
 .prox .box:hover{
     transform: scale(1.05);
